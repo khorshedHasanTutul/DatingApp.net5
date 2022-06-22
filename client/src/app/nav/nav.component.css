@@ -1,0 +1,10 @@
+#navbarCollapse {
+  justify-content: space-between;
+}
+.d-flex.from-login {
+  gap: 1rem;
+}
+dropdown-toggle,
+dropdown-menu {
+  cursor: pointer;
+}
